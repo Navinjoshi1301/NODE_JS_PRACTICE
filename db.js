@@ -3,7 +3,7 @@ const mongoose = require("mongoose");
 // mongo db url
 
 const mongooseUrl =
-  "mongodb+srv://naveenjoshi:yhaaCTn12vcDuLoh@navin1.x7ujpop.mongodb.net/?retryWrites=true&w=majority&appName=navin1";
+  "mongodb+srv://naveenjoshi:vjWm1NqVrjKQBigz@navin1.x7ujpop.mongodb.net/?retryWrites=true&w=majority&appName=navin1";
 
 // setup Mongo connection
 
