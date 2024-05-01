@@ -4,8 +4,6 @@ const db = require("./db");
 const Person = require("./models/person");
 const bodyParser = require("body-parser");
 const NodeCache = require("node-cache");
-const MenuItem = require("./models/Menu");
-
 const MyCache = new NodeCache();
 
 app.use(bodyParser.json());
