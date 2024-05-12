@@ -29,7 +29,7 @@ app.post("/person", async (req, res) => {
   }
 });
 
-//  Get person method
+//  Get person meth
 
 app.get("/person", async (req, res) => {
   try {
